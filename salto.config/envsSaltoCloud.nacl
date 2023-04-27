@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "d563736f-b127-4f28-ad7b-542b53764e34"
+      folderName = "saltoDev"
+    },
+  ]
+}
