@@ -1,0 +1,19 @@
+netsuite.customrecord_slt_sales_order_type val_120634_t2257860_296 {
+  scriptid = "val_120634_t2257860_296"
+  isInactive = false
+  name = "daniel"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  custom_custrecord7 = "jimbo"
+  _alias = "daniel"
+}

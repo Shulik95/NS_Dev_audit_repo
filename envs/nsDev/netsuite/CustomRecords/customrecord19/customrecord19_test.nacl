@@ -1,0 +1,7 @@
+netsuite.customrecord19 customrecord19_test {
+  scriptid = "customrecord19_test"
+  isInactive = false
+  name = "APAC"
+  custom_custrecord19_5 = "a"
+  _alias = "APAC"
+}

@@ -1,0 +1,20 @@
+netsuite.customrecord_cseg2 val_5937_2239021_8159 {
+  scriptid = "val_5937_2239021_8159"
+  isInactive = false
+  parent = netsuite.customrecord_cseg2.instance.val_5937_2239021_8153
+  name = "UKG"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+        label = "frankie"
+      }
+    }
+  }
+  _alias = "UKG"
+}

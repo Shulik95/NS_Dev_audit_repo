@@ -1,0 +1,148 @@
+netsuite.savedsearch customsearch172 {
+  scriptid = "customsearch172"
+  definition = "bc2c8206df2d39b1fbc8a60008bb9fdea72f8916a04e1d37b5938fdc61d428d4@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Campaign_ISSALESCAMPAIGN"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Campaign_RECIPIENT"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "-5"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Campaign_RECIPIENT"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_TITLE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_STARTDATE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Campaign_CAMPAIGNID"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_TITLE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_CATEGORY"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_ENDDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_COST"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_EXPECTEDREVENUE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_MANAGER"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Campaign_RECIPIENT"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch172"
+  FIELD_DEFAULT_NAME = "Active Sales Campaigns"
+  FIELD_SEARCH_TYPE = "Campaign"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Active Sales Campaigns"
+}

@@ -1,0 +1,19 @@
+netsuite.customrecord_slt_sales_order_type val_5676_2239021_904 {
+  scriptid = "val_5676_2239021_904"
+  isInactive = false
+  name = "Renewal"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  custom_custrecord7 = "cccc"
+  _alias = "Renewal"
+}

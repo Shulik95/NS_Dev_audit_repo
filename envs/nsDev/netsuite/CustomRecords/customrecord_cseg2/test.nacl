@@ -1,0 +1,18 @@
+netsuite.customrecord_cseg2 test {
+  scriptid = "test"
+  isInactive = false
+  name = "APAC"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  _alias = "APAC"
+}

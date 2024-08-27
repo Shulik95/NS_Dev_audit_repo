@@ -1,0 +1,10 @@
+netsuite.customrecord2819 val_607049_t2257860_765 {
+  scriptid = "val_607049_t2257860_765"
+  isInactive = false
+  name = "Firefox"
+  custom_custrecord_operating_system = [
+    netsuite.customlist.instance.customlist2818.customvalues.customvalue.val_607041_t2257860_922,
+    netsuite.customlist.instance.customlist2818.customvalues.customvalue.val_607043_t2257860_927,
+  ]
+  _alias = "Firefox"
+}

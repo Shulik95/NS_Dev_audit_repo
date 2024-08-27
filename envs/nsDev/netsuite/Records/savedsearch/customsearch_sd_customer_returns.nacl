@@ -1,0 +1,149 @@
+netsuite.savedsearch customsearch_sd_customer_returns {
+  scriptid = "customsearch_sd_customer_returns"
+  definition = "a6fccd2464116b25d31d4b2f0ad48e2ec05627304b33d0f59f807638687e6c28@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "RtnAuth"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Transaction_TRANDATE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FUNCTION = "MONTH"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 4
+      FIELD_SUMMARY_TYPE = "COUNT"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_sd_customer_returns"
+  FIELD_DEFAULT_NAME = "SD Number of Customer Returns"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "SD Number of Customer Returns"
+}

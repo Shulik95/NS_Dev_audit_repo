@@ -1,0 +1,9 @@
+netsuite.customrecord_slt_testforrest val_52285_t2257860_948 {
+  scriptid = "val_52285_t2257860_948"
+  isInactive = false
+  name = "Some instance of custom record"
+  custom_custrecord1 = 18
+  custom_custrecord_incustomrecord1 = "some field"
+  custom_custrecord_some_field = "a"
+  _alias = "Some instance of custom record"
+}

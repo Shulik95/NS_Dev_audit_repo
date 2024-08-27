@@ -1,0 +1,6 @@
+netsuite.customrecord328 val_211260_t2257860_541 {
+  scriptid = "val_211260_t2257860_541"
+  isInactive = true
+  name = "aaaa"
+  _alias = "aaaa"
+}

@@ -1,0 +1,154 @@
+netsuite.savedsearch customsearch_sd_value_shipping_charges {
+  scriptid = "customsearch_sd_value_shipping_charges"
+  definition = "947d8c0d68ff4e6b54aa97128212a6acc1445b47d5861e3a8e3d3e2cf59de2d8@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "ItemShip"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Transaction_TRANDATE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FUNCTION = "MONTH"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_SHIPMETHOD"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_SHIPPINGAMOUNT"
+      FIELD_INDEX = 5
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_sd_value_shipping_charges"
+  FIELD_DEFAULT_NAME = "SD Value of Shipping Charges"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "SD Value of Shipping Charges"
+}

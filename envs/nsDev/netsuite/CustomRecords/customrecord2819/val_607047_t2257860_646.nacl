@@ -1,0 +1,9 @@
+netsuite.customrecord2819 val_607047_t2257860_646 {
+  scriptid = "val_607047_t2257860_646"
+  isInactive = false
+  name = "Internet Explorer"
+  custom_custrecord_operating_system = [
+    netsuite.customlist.instance.customlist2818.customvalues.customvalue.val_607041_t2257860_922,
+  ]
+  _alias = "Internet Explorer"
+}

@@ -1,0 +1,153 @@
+netsuite.savedsearch customsearch706 {
+  scriptid = "customsearch706"
+  definition = "1ff63457c99b69403add9ea393aeb13dd38ec786bba1713ad531bb204a4f8918@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "MfgOperationTask_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "PROGRESS"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "NOTSTART"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "MfgOperationTask_MANUFACTURINGWORKCENTER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1600"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "MfgOperationTask_WORKORDER"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_SEQUENCE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_STATUS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_NAME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_ESTIMATEDWORK"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_COMPLETEDQUANTITY"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_REMAININGQUANTITY"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_FORMULANUMERIC"
+      FIELD_INDEX = 9
+      FIELD_LABEL = "Time Left"
+      FIELD_FORMULA = "({actualruntime}+{actualsetuptime})-{estimatedwork}"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "MfgOperationTask_STATUS"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "MfgOperationTask_STARTDATE"
+      FILELD_ORDER = 2
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch706"
+  FIELD_DEFAULT_NAME = "QA Dispatch List"
+  FIELD_SEARCH_TYPE = "MfgOperationTask"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "QA Dispatch List"
+}

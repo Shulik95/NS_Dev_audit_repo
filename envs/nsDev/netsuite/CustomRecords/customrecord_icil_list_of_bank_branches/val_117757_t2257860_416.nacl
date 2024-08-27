@@ -1,0 +1,8 @@
+netsuite.customrecord_icil_list_of_bank_branches val_117757_t2257860_416 {
+  scriptid = "val_117757_t2257860_416"
+  isInactive = false
+  name = "val222222"
+  custom_custrecord_icil_bank_code_line = 12
+  custom_custrecord_icil_branch_show = "icil branch show222"
+  _alias = "val222222"
+}

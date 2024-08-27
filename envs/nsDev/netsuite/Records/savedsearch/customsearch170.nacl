@@ -1,0 +1,156 @@
+netsuite.savedsearch customsearch170 {
+  scriptid = "customsearch170"
+  definition = "9945a147b2aa3c53b3538090543a1586ea510c22d8a7a2e8b3bb963ca001441d@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_INVENTORYLOCATION"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "3"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "4"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_LOCATIONQUANTITYONHAND"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "FLOAT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Item_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DISPLAYNAME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DESCRIPTION"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_TYPE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_LOCATIONQUANTITYONHAND"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Item_NAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DISPLAYNAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DESCRIPTION"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_TYPE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_PRICE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Item_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch170"
+  FIELD_DEFAULT_NAME = "Items On Hand in Non-Stock Locations "
+  FIELD_SEARCH_TYPE = "Item"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Items On Hand in Non-Stock Locations "
+}

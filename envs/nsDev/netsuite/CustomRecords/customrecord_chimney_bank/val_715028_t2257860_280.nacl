@@ -1,0 +1,12 @@
+netsuite.customrecord_chimney_bank val_715028_t2257860_280 {
+  isInactive = false
+  name = "Test Bank account"
+  scriptid = "val_715028_t2257860_280"
+  custom_custrecord2813 = netsuite.customlist.instance.customlist_chimney_acct_type.customvalues.customvalue.val_715018_t2257860_938
+  custom_custrecord2814 = {
+    id = "[ACCOUNT_SPECIFIC_VALUE] (object) (Acc. Dep-Furniture & Fixtures : Chid Bank)"
+  }
+  custom_custrecord_chimney_name = "Test Chimney Run"
+  custom_custrecord_bank_number = 63678328266
+  _alias = "Test Bank account"
+}

@@ -1,0 +1,6 @@
+netsuite.customrecord267 _equip_type_demail {
+  scriptid = "_equip_type_demail"
+  isInactive = false
+  name = "DE Mail"
+  _alias = "DE Mail"
+}

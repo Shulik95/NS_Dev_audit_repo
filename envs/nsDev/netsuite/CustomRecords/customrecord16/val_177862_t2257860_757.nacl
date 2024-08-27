@@ -1,0 +1,18 @@
+netsuite.customrecord16 val_177862_t2257860_757 {
+  scriptid = "val_177862_t2257860_757"
+  isInactive = false
+  name = "aa"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  _alias = "aa"
+}

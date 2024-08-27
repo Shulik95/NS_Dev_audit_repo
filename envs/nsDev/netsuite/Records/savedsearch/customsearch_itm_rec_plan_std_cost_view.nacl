@@ -1,0 +1,120 @@
+netsuite.savedsearch customsearch_itm_rec_plan_std_cost_view {
+  scriptid = "customsearch_itm_rec_plan_std_cost_view"
+  definition = "ada7b40dc0511ab30f83de2f937b346cf9474ade51ce4a812ec3f03cf648b5f9@GZC@2023.2.16@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"
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "IT_Item_INTERNALID"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 3
+      FIELD_NAME = "PlannedStandardCost_LOCATION"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_LOCATION"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_ITEM"
+      FIELD_INDEX = 3
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_COST"
+      FIELD_INDEX = 4
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_LOCATION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_ITEM"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_itm_rec_plan_std_cost_view"
+  FIELD_DEFAULT_NAME = "Item Record: Planned Standard Cost View"
+  FIELD_SEARCH_TYPE = "PlannedStandardCost"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Item Record: Planned Standard Cost View"
+}

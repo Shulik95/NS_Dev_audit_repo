@@ -1,0 +1,126 @@
+netsuite.savedsearch customsearch261 {
+  scriptid = "customsearch261"
+  definition = "15564ab24946d95393016ee88cff9940245d386bea833b7c78388a518d30a188@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ItemDemandPlan_LASTMODIFIEDDATE"
+      FIELD_MODIFIER = "WITHIN"
+      FIELD_ATTRIBUTE = "TW"
+      FIELD_TYPE = "DATETIME"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2011-04-10 07:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2011-04-17 06:59:00.0 UTC"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "ItemDemandPlan_ITEM"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_LOCATION"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_UNITS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_MEMO"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "ItemDemandPlan_ITEM"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_LOCATION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_UNITS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_MEMO"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "ItemDemandPlan_ITEM"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch261"
+  FIELD_DEFAULT_NAME = "Demand Plans created this week"
+  FIELD_SEARCH_TYPE = "ItemDemandPlan"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Demand Plans created this week"
+}

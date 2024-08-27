@@ -1,0 +1,199 @@
+netsuite.savedsearch customsearch_vpi_ontime_late_count {
+  scriptid = "customsearch_vpi_ontime_late_count"
+  definition = "e17c78d7f8f218d43d2f0b03a7e45d122e38323c67b4966d81b0267049a88355@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "PurchOrd"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_ACCOUNT"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "120"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_FORMULANUMERIC"
+      FIELD_FORMULA = "{duedate}-{applyingtransaction.trandate}"
+      FIELD_ATTRIBUTE = "LT"
+      FIELD_TYPE = "FLOAT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Transaction_TRANDATE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "VE_Entity_ENTITYID"
+      FIELD_INDEX = 3
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_DUEDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "OL_Transaction_TRANDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_FORMULANUMERIC"
+      FIELD_INDEX = 7
+      FIELD_LABEL = "Days Late"
+      FIELD_FUNCTION = "ABSOLUTEVALUE"
+      FIELD_FORMULA = "{duedate}-{applyingtransaction.trandate}"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 8
+      FIELD_SUMMARY_TYPE = "COUNT"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_DUEDATE"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_NUMBER"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = true
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_vpi_ontime_late_count"
+  FIELD_DEFAULT_NAME = "VPI - On Time Deliveries - Late Count"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "VPI - On Time Deliveries - Late Count"
+}

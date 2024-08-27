@@ -1,0 +1,7 @@
+netsuite.customrecord19 val_177863_t2257860_589 {
+  scriptid = "val_177863_t2257860_589"
+  isInactive = false
+  name = "bb"
+  custom_custrecord19_5 = "test"
+  _alias = "bb"
+}

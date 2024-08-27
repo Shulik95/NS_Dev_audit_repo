@@ -1,0 +1,126 @@
+netsuite.savedsearch customsearch165 {
+  scriptid = "customsearch165"
+  definition = "6e5255ca0117ffb76084b5bf69a28fd4240e77263783e0b904a6bfa665aa91c7@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "CashSale"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "CustInvc"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_LOCATION"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Transaction_TRANDATE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "Transaction_LOCATION"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_ITEM"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch165"
+  FIELD_DEFAULT_NAME = "San Francisco Sales"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "ANY"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "San Francisco Sales"
+}

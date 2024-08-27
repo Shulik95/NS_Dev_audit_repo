@@ -1,0 +1,18 @@
+netsuite.customrecord_slt_sales_order_type val_52279_t2257860_181 {
+  scriptid = "val_52279_t2257860_181"
+  isInactive = false
+  name = "System Integrator"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  _alias = "System Integrator"
+}

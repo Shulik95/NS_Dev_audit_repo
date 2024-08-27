@@ -1,0 +1,131 @@
+netsuite.savedsearch customsearch_resource_cal {
+  scriptid = "customsearch_resource_cal"
+  definition = "05756a4d2d9f7f493eb57e46da6e3912d2c258706f803ad5367e758bf744aa5f@GZC@2023.2.16@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "Calendar_TITLE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_OWNER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_ATTENDEE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTTIME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_ENDTIME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_INTERNALID"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Calendar_TITLE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTDATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTTIME"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_ENDTIME"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_OWNER"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STATUS"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_MARKDONE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Calendar_TITLE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_resource_cal"
+  FIELD_DEFAULT_NAME = "Support Resource Calendar Search (gus)"
+  FIELD_SEARCH_TYPE = "Calendar"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Support Resource Calendar Search (gus)"
+}

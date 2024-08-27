@@ -1,0 +1,92 @@
+netsuite.savedsearch customsearch685 {
+  scriptid = "customsearch685"
+  definition = "9611f7ebafd9d428b2ab1555bfa2fde9a81bd8faa6a77e04130cad1d87d3ad7d@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "MfgRouting_ISDEFAULT"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "IT_Item_NAME"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "IT_Item_DESCRIPTION"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgRouting_SEQUENCE"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "# Steps"
+      FIELD_SUMMARY_TYPE = "COUNT"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "IT_Item_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch685"
+  FIELD_DEFAULT_NAME = "Assemblies with Default Routings"
+  FIELD_SEARCH_TYPE = "MfgRouting"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Assemblies with Default Routings"
+}

@@ -1,0 +1,6 @@
+netsuite.customrecord1234567 val_186179_t2257860_256 {
+  scriptid = "val_186179_t2257860_256"
+  isInactive = false
+  name = "Igal new custom record instance"
+  _alias = "Igal new custom record instance"
+}

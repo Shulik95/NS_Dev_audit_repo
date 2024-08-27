@@ -1,0 +1,171 @@
+netsuite.savedsearch customsearch171 {
+  scriptid = "customsearch171"
+  definition = "351acdbc6160e6ad52f680259a7ab24b61ec20c45eb200cea6ffd622eded1ec3@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "InvtPart"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_FORMULANUMERIC"
+      FIELD_FORMULA = "ROUND((({lastpurchaseprice}-{averagecost})/{averagecost}),4)*100"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "FLOAT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_ISINACTIVE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Item_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DISPLAYNAME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_LASTPURCHASEPRICE"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Last Purchase Price "
+      FIELD_FUNCTION = "ROUND2"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_AVERAGECOST"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "Average Cost"
+      FIELD_FUNCTION = "ROUND2"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_FORMULAPERCENT"
+      FIELD_INDEX = 5
+      FIELD_LABEL = "Price Increase "
+      FIELD_FORMULA = "ROUND((({lastpurchaseprice}-{averagecost})/{averagecost}),4)"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Item_NAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DISPLAYNAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DESCRIPTION"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_TYPE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_PRICE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Item_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch171"
+  FIELD_DEFAULT_NAME = "Items with Recent Cost Increase "
+  FIELD_SEARCH_TYPE = "Item"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Items with Recent Cost Increase "
+}

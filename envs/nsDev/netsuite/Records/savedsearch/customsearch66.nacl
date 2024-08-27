@@ -1,0 +1,133 @@
+netsuite.savedsearch customsearch66 {
+  scriptid = "customsearch66"
+  definition = "7982d5a754efb602259d30a048504c3981996794bfe642166c8f95eb2476b6bd@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "InvtPart"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Item_QUANTITYONORDER"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "FLOAT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Item_NAME"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Item_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_QUANTITYAVAILABLE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_QUANTITYCOMMITTED"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_QUANTITYBACKORDERED"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_QUANTITYONORDER"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Item_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch66"
+  FIELD_DEFAULT_NAME = "Stock on Order"
+  FIELD_SEARCH_TYPE = "Item"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Stock on Order"
+}

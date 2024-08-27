@@ -1,0 +1,101 @@
+netsuite.savedsearch customsearch728 {
+  scriptid = "customsearch728"
+  definition = "7f205138d3ac76dcf36bc5d65150d66970399032fc06c28099c0b5a9277891d9@GZC@2023.2.16@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "ItemDemandPlan_ITEM"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_LOCATION"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_UNITS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_MEMO"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "ItemDemandPlan_ITEM"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_LOCATION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_UNITS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemDemandPlan_MEMO"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "ItemDemandPlan_ITEM"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch728"
+  FIELD_DEFAULT_NAME = "Active Demand Plans"
+  FIELD_SEARCH_TYPE = "ItemDemandPlan"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Active Demand Plans"
+}

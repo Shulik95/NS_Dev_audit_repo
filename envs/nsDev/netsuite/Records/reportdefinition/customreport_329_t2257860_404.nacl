@@ -1,0 +1,240 @@
+netsuite.reportdefinition customreport_329_t2257860_404 {
+  scriptid = "customreport_329_t2257860_404"
+  definition = "2bf59318ee2fa74c4142b23aa54173c318c20a98221ea3805c4e3ab5031e763e@GZC@2024.1.15@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"
+  name = "Custom Campaign ROI Detail"
+  components = [
+    {
+      KEY_COMPONENT = 79
+      FLAG_SECONDARY_DIM = false
+      FIELD_CLASS = "com.netledger.app.reporting.measure.NLCampaignRoiMeasure"
+    },
+    {
+      KEY_COMPONENT = 20
+      FLAG_SECONDARY_DIM = false
+      FIELD_CLASS = "com.netledger.app.reporting.dimension.NLEmployeeDimension"
+    },
+  ]
+  parameters = {
+    accounting_book_current_id = "1"
+    accounting_book_id = "1"
+  }
+  sorts = [
+    {
+      KEY_COMPONENT = "79"
+      FIELD_ALIAS = "salestotal"
+      FIELD_TABLE = "campaignroi"
+      SEQ_NUMBER = 0
+      FLAG_DESCENDING = false
+      FLAG_SUBTOTAL = false
+    },
+  ]
+  fields = [
+    {
+      KEY_COMPONENT = 20
+      FIELD_TABLE = "ENTITY"
+      FIELD_ALIAS = "SFULLNAME"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = true
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = false
+      SEQ_NUMBER = 1
+      FIELD_LABEL = "Name"
+      FIELD_URL = "/app/common/entity/entity.nl?id={emp,entity,nkey,x,x}"
+      FIELD_URL_TYPE = "DERIVED"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = false
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "text"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 79
+      FIELD_TABLE = "CAMPAIGNROI"
+      FIELD_ALIAS = "SALESTOTAL"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 2
+      FIELD_LABEL = "Sales Total"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = true
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "float"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 79
+      FIELD_TABLE = "CAMPAIGNEVENT"
+      FIELD_ALIAS = "MCOST"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 3
+      FIELD_LABEL = "Cost"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = true
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "paren"
+      FIELD_FORMAT = "currency"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 79
+      FIELD_TABLE = "CAMPAIGNROI"
+      FIELD_ALIAS = "SALESTOTAL"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 4
+      FIELD_LABEL = "Sales Total"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = true
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "float"
+      FLAG_TOTAL_FORMULA = true
+    },
+  ]
+  uiPreferences = {
+    PARAMETER_CASH_BASIS = false
+    PARAMETER_TAXCASH_BASIS = "F"
+    PARAMETER_SHOW_ZEROS = true
+    PARAMETER_SHOW_SINGLEROWLINES = false
+    PARAMETER_DISPLAY_TYPE = "data"
+    PARAMETER_INC_VS_EXP = false
+    PARAMETER_GRAPH_TOP = -1
+    PARAMETER_WEB_STORE = false
+    PARAMETER_ACTIVITY_ONLY = false
+    PARAMETER_ALLOW_WEBQUERY = false
+    PARAMETER_GRAPH_3D = false
+    PARAMETER_SHOW_CURRENCY_SYMBOL = true
+    PARAMETER_EXPAND_LEVEL = 100
+  }
+  criteria = [
+    {
+      descriptor = {
+        FIELD_ALIAS = "DFROM"
+        FIELD_TABLE = "EVENT"
+        FIELD_OP_CLASS = "BETWEEN"
+        FILED_TYPE = "DATE"
+        SEQ_NUMBER = 0
+        FIELD_UNIT_TYPE = -1
+        FLAG_IN_FOOTER = true
+        FLAG_CUSTOM_FOOTER = false
+        FLAG_VIRTUAL_FIELD = false
+        FIELD_DESCRIPTOR = "campaignevent,event,dfrom,x,x"
+        FLAG_IS_HIDDEN = false
+      }
+      values = [
+        {
+          FIELD_DATE_FILTER_INDEX = 0
+          SEQ_NUMBER = 0
+          FIELD_VALUE = "TM"
+        },
+      ]
+    },
+    {
+      descriptor = {
+        FIELD_ALIAS = "KSUBSIDIARY"
+        FIELD_OP_CLASS = "SUBSIDCHILDRENOF"
+        FILED_TYPE = "INTEGER"
+        SEQ_NUMBER = 1
+        FIELD_UNIT_TYPE = -1
+        FLAG_IN_FOOTER = true
+        FLAG_CUSTOM_FOOTER = false
+        FLAG_VIRTUAL_FIELD = true
+        FIELD_DESCRIPTOR = "campaignevent,campaignroi,ksubsidiary,x,x"
+        FLAG_IS_HIDDEN = false
+      }
+      values = [
+        {
+          FIELD_DATE_FILTER_INDEX = 0
+          SEQ_NUMBER = 0
+          FIELD_VALUE = 1
+        },
+      ]
+    },
+  ]
+  flags = {
+    KEY_REPORT_ID = 329
+    KEY_SCRIPT_ID = "CUSTOMREPORT_329_T2257860_404"
+    FIELD_KEY = 329
+    FIELD_CODE = "QUICK_REPORT"
+    FIELD_NAME = "Custom Campaign ROI Detail"
+    FIELD_ORIGINAL_TITLE = "Custom Campaign ROI Detail"
+    FIELD_PERM_TYPE = "REPO_MARKETING"
+    KEY_FEATURE = "MARKETING"
+    FLAG_PERIODS_ALLOWED = false
+    FLAG_DISPLAY_TYPE = "DETAIL"
+    FLAG_ONE_DATE = false
+    FLAG_PRIMARY_OUTER_JOIN = false
+    FLAG_CUSTOM_MODE = true
+    FLAG_CASH_BASIS = false
+    FLAG_SHOW_ZEROS = true
+    FLAG_INACTIVE = false
+    FIELD_VERSION = 8
+    FLAG_PERIODS_ON = false
+    FLAG_USE_FISCAL_YEAR_RANGE = false
+    FLAG_USE_TAX_PERIODS = false
+    KEY_ENTITY = "7"
+    FLAG_SHOW_LINK = false
+    FLAG_SUPPORTS_CONSOL_SUBSIDIARY = true
+    FIELD_TOGGLE_TYPE = "NOTHING"
+    FLAG_AFFECTED_BY_COGS = false
+    FLAG_ACTIVITY_ONLY = false
+  }
+  _alias = "Custom Campaign ROI Detail"
+}

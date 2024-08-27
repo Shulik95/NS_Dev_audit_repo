@@ -1,0 +1,9 @@
+netsuite.customrecord_crpsm val_305314_td2893563_131 {
+  scriptid = "val_305314_td2893563_131"
+  isInactive = false
+  name = "On Track"
+  custom_custrecord_crpsm_banner_style = netsuite.customlist.instance.customlist_crpsmbanner.customvalues.customvalue.val_306441_td2893563_218
+  custom_custrecord_crpsm_color = netsuite.customlist.instance.customlist_crpsmcolor.customvalues.customvalue.val_305308_td2893563_798
+  custom_custrecord_crpsm_metric = 100
+  _alias = "On Track"
+}

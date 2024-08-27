@@ -1,0 +1,18 @@
+netsuite.customrecord_cseg1 val_5913_2239021_335 {
+  scriptid = "val_5913_2239021_335"
+  isInactive = false
+  name = "b"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  _alias = "b"
+}

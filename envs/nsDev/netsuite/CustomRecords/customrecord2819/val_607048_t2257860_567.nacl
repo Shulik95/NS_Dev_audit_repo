@@ -1,0 +1,11 @@
+netsuite.customrecord2819 val_607048_t2257860_567 {
+  scriptid = "val_607048_t2257860_567"
+  isInactive = false
+  name = "Google Chrome"
+  custom_custrecord_operating_system = [
+    netsuite.customlist.instance.customlist2818.customvalues.customvalue.val_607041_t2257860_922,
+    netsuite.customlist.instance.customlist2818.customvalues.customvalue.val_607042_t2257860_519,
+    netsuite.customlist.instance.customlist2818.customvalues.customvalue.val_607043_t2257860_927,
+  ]
+  _alias = "Google Chrome"
+}

@@ -1,0 +1,8 @@
+netsuite.customrecord_slt_testforrest val_456 {
+  scriptid = "val_456"
+  isInactive = false
+  name = "testDaniel2"
+  custom_custrecord_some_field = "c"
+  custom_custrecordref_to_myself = netsuite.customrecord_slt_testforrest.instance.val_52285_t2257860_948
+  _alias = "testDaniel2"
+}

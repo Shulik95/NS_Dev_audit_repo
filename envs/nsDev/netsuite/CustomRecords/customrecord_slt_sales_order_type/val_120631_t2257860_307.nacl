@@ -1,0 +1,29 @@
+netsuite.customrecord_slt_sales_order_type val_120631_t2257860_307 {
+  scriptid = "val_120631_t2257860_307"
+  isInactive = false
+  name = "daniel"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  custom_custrecord9 = [
+    {
+      id = "[ACCOUNT_SPECIFIC_VALUE] (object) (Acc. Dep-Automotive Equip.)"
+    },
+    {
+      id = "[ACCOUNT_SPECIFIC_VALUE] (object) (Acc. Dep-Furniture & Fixtures)"
+    },
+    {
+      id = "[ACCOUNT_SPECIFIC_VALUE] (object) (Acc. Dep-Leasehold Improvements)"
+    },
+  ]
+  _alias = "daniel"
+}

@@ -1,0 +1,9 @@
+netsuite.customrecord_slt_testforrest val_123134_t2257860_237 {
+  scriptid = "val_123134_t2257860_237"
+  isInactive = false
+  name = "test1"
+  custom_custrecord1 = 18
+  custom_custrecord_incustomrecord1 = "some field"
+  custom_custrecord_some_field = "a"
+  _alias = "test1"
+}

@@ -1,0 +1,9 @@
+netsuite.customrecord_crpsm val_305316_td2893563_506 {
+  scriptid = "val_305316_td2893563_506"
+  isInactive = false
+  name = "Requires Divine Intervention"
+  custom_custrecord_crpsm_banner_style = netsuite.customlist.instance.customlist_crpsmbanner.customvalues.customvalue.val_306443_td2893563_864
+  custom_custrecord_crpsm_color = netsuite.customlist.instance.customlist_crpsmcolor.customvalues.customvalue.val_305310_td2893563_799
+  custom_custrecord_crpsm_metric = 10
+  _alias = "Requires Divine Intervention"
+}

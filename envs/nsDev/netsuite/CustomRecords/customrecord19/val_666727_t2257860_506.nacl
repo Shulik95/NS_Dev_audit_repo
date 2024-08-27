@@ -1,0 +1,8 @@
+netsuite.customrecord19 val_666727_t2257860_506 {
+  isInactive = false
+  name = "customrecord19_test123"
+  scriptid = "val_666727_t2257860_506"
+  externalId = "customrecord19_test123"
+  custom_custrecord19_5 = "abcd"
+  _alias = "customrecord19_test123"
+}

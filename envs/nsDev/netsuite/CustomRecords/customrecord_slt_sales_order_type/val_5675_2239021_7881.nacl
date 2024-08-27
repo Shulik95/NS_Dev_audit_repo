@@ -1,0 +1,19 @@
+netsuite.customrecord_slt_sales_order_type val_5675_2239021_7881 {
+  scriptid = "val_5675_2239021_7881"
+  isInactive = false
+  name = "Downgrade2"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  custom_custrecord7 = "aaaa"
+  _alias = "Downgrade2"
+}

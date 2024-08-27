@@ -1,0 +1,19 @@
+netsuite.customrecord_cseg2 val_5936_2239021_687 {
+  scriptid = "val_5936_2239021_687"
+  isInactive = false
+  parent = netsuite.customrecord_cseg2.instance.val_5934_2239021_682
+  name = "ISR"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  _alias = "ISR"
+}

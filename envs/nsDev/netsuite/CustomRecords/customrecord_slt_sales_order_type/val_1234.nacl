@@ -1,0 +1,19 @@
+netsuite.customrecord_slt_sales_order_type val_1234 {
+  scriptid = "val_1234"
+  isInactive = false
+  name = "New business"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+        label = "ttttt"
+      }
+    }
+  }
+  _alias = "New business"
+}

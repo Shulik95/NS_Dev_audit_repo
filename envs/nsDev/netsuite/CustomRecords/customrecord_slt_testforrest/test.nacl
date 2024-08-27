@@ -1,0 +1,7 @@
+netsuite.customrecord_slt_testforrest test {
+  scriptid = "test"
+  isInactive = false
+  name = "test"
+  custom_custrecord_some_field = "c"
+  _alias = "test"
+}

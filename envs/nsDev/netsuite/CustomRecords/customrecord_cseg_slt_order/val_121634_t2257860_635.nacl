@@ -1,0 +1,19 @@
+netsuite.customrecord_cseg_slt_order val_121634_t2257860_635 {
+  scriptid = "val_121634_t2257860_635"
+  isInactive = false
+  name = "test"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  custom_custrecord10 = netsuite.customrecord_cseg1.instance.val_5913_2239021_335
+  _alias = "test"
+}

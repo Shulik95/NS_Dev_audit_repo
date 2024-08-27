@@ -1,0 +1,9 @@
+netsuite.customrecord_crpsm val_306484_td2893563_909 {
+  scriptid = "val_306484_td2893563_909"
+  isInactive = false
+  name = "On Hold"
+  custom_custrecord_crpsm_banner_style = netsuite.customlist.instance.customlist_crpsmbanner.customvalues.customvalue.val_306440_td2893563_858
+  custom_custrecord_crpsm_color = netsuite.customlist.instance.customlist_crpsmcolor.customvalues.customvalue.val_306483_td2893563_601
+  custom_custrecord_crpsm_metric = 0
+  _alias = "On Hold"
+}

@@ -1,0 +1,18 @@
+netsuite.customrecord_slt_sales_order_type val_5674_2239021_858 {
+  scriptid = "val_5674_2239021_858"
+  isInactive = false
+  name = "Upsell"
+  translationsList = {
+    customRecordTranslations = {
+      _englishCa = {
+        locale = "_englishCa"
+        language = "English (CA)"
+      }
+      _frenchFrance = {
+        locale = "_frenchFrance"
+        language = "French (France)"
+      }
+    }
+  }
+  _alias = "Upsell"
+}

@@ -1,0 +1,10 @@
+netsuite.customrecord3339 val_715029_t2257860_136 {
+  isInactive = false
+  name = "Test signer 007"
+  scriptid = "val_715029_t2257860_136"
+  custom_custrecord2815 = netsuite.customrecord_chimney_bank.instance.val_715028_t2257860_280
+  custom_custrecord2816 = {
+    id = "[ACCOUNT_SPECIFIC_VALUE] (object) (Alon Stern)"
+  }
+  _alias = "Test signer 007"
+}

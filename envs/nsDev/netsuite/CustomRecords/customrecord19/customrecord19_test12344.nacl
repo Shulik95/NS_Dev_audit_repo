@@ -1,0 +1,11 @@
+netsuite.customrecord19 customrecord19_test12344 {
+  isInactive = false
+  name = "APAC1234"
+  scriptid = "customrecord19_test12344"
+  custom_custrecord19_5 = "a"
+  custom_custrecord19_account_id = {
+    id = "[ACCOUNT_SPECIFIC_VALUE] (object) (Inventory)"
+  }
+  custom_custrecord_test2 = netsuite.subsidiary.instance.Parent_Company@s
+  _alias = "APAC1234"
+}

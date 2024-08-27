@@ -1,0 +1,7 @@
+netsuite.customrecord328 val_211263_t2257860_445 {
+  scriptid = "val_211263_t2257860_445"
+  isInactive = false
+  parent = netsuite.customrecord328.instance.val_211260_t2257860_541
+  name = "cccccc"
+  _alias = "cccccc"
+}

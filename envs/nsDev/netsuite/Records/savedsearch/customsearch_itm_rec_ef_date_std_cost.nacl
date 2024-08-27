@@ -1,0 +1,150 @@
+netsuite.savedsearch customsearch_itm_rec_ef_date_std_cost {
+  scriptid = "customsearch_itm_rec_ef_date_std_cost"
+  definition = "4d09e3b7ff724eab3dcc3d4ced235d37eac5ae465229899ba38dcc9c1f60e46c@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "TR_Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "InvReval"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Item_INTERNALIDNUMBER"
+      FIELD_CUSTOM_LABEL = "Name"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "TR_Transaction_LOCATION"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "TR_Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TR_Transaction_LOCATION"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TR_Transaction_ITEM"
+      FIELD_INDEX = 3
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TR_Transaction_COSTCOMPONENTSTANDARDCOST"
+      FIELD_INDEX = 4
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Item_NAME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DISPLAYNAME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_DESCRIPTION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_TYPE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Item_PRICE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "TR_Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "TR_Transaction_ITEM"
+      FILELD_ORDER = 2
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_itm_rec_ef_date_std_cost"
+  FIELD_DEFAULT_NAME = "Item Record: Effective Date Std Cost"
+  FIELD_SEARCH_TYPE = "Item"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Item Record: Effective Date Std Cost"
+}

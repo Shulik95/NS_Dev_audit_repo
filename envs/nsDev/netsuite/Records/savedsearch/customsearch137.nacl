@@ -1,0 +1,132 @@
+netsuite.savedsearch customsearch137 {
+  scriptid = "customsearch137"
+  definition = "8e0412f5c45ea49b76a04a6b2dcd8d378b1e1a848bfe254ee07803061e3f6b03@GZC@2023.2.16@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "GiftCertificate_AMTAVAIL"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "GiftCertificate_GCACTIVE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "GiftCertificate_PURCHASEDATE"
+      FIELD_INDEX = 1
+      FIELD_LABEL = "Purchase Date"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_NAME"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "Recipient Name"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_EMAIL"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Recipient Email"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_GCCODE"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "Authentication Code"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_ORIGAMOUNT"
+      FIELD_INDEX = 5
+      FIELD_LABEL = "Purchase Price"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_AMTAVAIL"
+      FIELD_INDEX = 6
+      FIELD_LABEL = "Remaining Value"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_EXPDATE"
+      FIELD_INDEX = 7
+      FIELD_LABEL = "Expiration Date"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "GiftCertificate_PURCHASEDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch137"
+  FIELD_DEFAULT_NAME = "Gift Certificates with Remaining Value"
+  FIELD_SEARCH_TYPE = "GiftCertificate"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Gift Certificates with Remaining Value"
+}
