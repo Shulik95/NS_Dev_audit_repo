@@ -255,10 +255,6 @@ netsuite.role customrole_controller1 {
         permkey = "REGT_DEFERREVENUE"
         permlevel = "VIEW"
       }
-      LIST_DEPARTMENT = {
-        permkey = "LIST_DEPARTMENT"
-        permlevel = "VIEW"
-      }
       LIST_FILECABINET = {
         permkey = "LIST_FILECABINET"
         permlevel = "FULL"

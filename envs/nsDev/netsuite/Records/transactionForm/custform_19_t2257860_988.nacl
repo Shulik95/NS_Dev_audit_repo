@@ -275,16 +275,6 @@ netsuite.transactionForm custform_19_t2257860_988 {
                 sameRowAsPrevious = false
                 index = 1
               }
-              DEPARTMENT = {
-                id = "DEPARTMENT"
-                label = "Department"
-                visible = true
-                mandatory = false
-                displayType = "NORMAL"
-                columnBreak = false
-                sameRowAsPrevious = false
-                index = 2
-              }
               CLASS = {
                 id = "CLASS"
                 label = "Class"
@@ -293,7 +283,7 @@ netsuite.transactionForm custform_19_t2257860_988 {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 3
+                index = 2
               }
               cseg1 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg1]"
@@ -303,7 +293,7 @@ netsuite.transactionForm custform_19_t2257860_988 {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 4
+                index = 3
               }
               cseg2 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg2]"
@@ -313,7 +303,7 @@ netsuite.transactionForm custform_19_t2257860_988 {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 5
+                index = 4
               }
             }
             index = 0
@@ -609,101 +599,95 @@ netsuite.transactionForm custform_19_t2257860_988 {
                     visible = true
                     index = 9
                   }
-                  DEPARTMENT = {
-                    id = "DEPARTMENT"
-                    label = "Department"
-                    visible = true
-                    index = 10
-                  }
                   CLASS = {
                     id = "CLASS"
                     label = "Class"
                     visible = true
-                    index = 11
+                    index = 10
                   }
                   LOCATION = {
                     id = "LOCATION"
                     label = "Location"
                     visible = true
-                    index = 12
+                    index = 11
                   }
                   REVENUERECOGNITIONRULE = {
                     id = "REVENUERECOGNITIONRULE"
                     label = "Revenue Recognition Rule"
                     visible = true
-                    index = 14
+                    index = 13
                   }
                   custcol_slt_billable = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_billable.scriptid
                     label = "Billable"
                     visible = false
-                    index = 13
+                    index = 12
                   }
                   custcol_with_stam_dependency = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_with_stam_dependency.scriptid
                     label = "with Stam dependency"
                     visible = false
-                    index = 15
+                    index = 14
                   }
                   custcol_slt_e2e_test = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_e2e_test.scriptid
                     label = "created by oss e2e - 0371717"
                     visible = false
-                    index = 16
+                    index = 15
                   }
                   cseg1 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg1]"
                     label = "Stam"
                     visible = false
-                    index = 17
+                    index = 16
                   }
                   cseg_slt_order = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_slt_order]"
                     label = "Test Applications Order"
                     visible = false
-                    index = 18
+                    index = 17
                   }
                   SOURCEREVENUEPLAN = {
                     id = "SOURCEREVENUEPLAN"
                     label = "Source Recognition Plan"
                     visible = true
-                    index = 19
+                    index = 18
                   }
                   cseg3 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg3]"
                     label = "cseg6"
                     visible = false
-                    index = 20
+                    index = 19
                   }
                   cseg_erp_property = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_erp_property]"
                     label = "Kavel"
                     visible = true
-                    index = 23
+                    index = 22
                   }
                   cseg_sales_region = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_sales_region]"
                     label = "Sales Region"
                     visible = true
-                    index = 22
+                    index = 21
                   }
                   cseg_test2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_test2]"
                     label = "test2"
                     visible = false
-                    index = 21
+                    index = 20
                   }
                   cseg4 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg4]"
                     label = "csegggg"
                     visible = false
-                    index = 24
+                    index = 23
                   }
                   cseg2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg2]"
                     label = "Region"
                     visible = false
-                    index = 25
+                    index = 24
                   }
                 }
               }

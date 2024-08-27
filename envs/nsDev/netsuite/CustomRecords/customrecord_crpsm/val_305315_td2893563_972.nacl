@@ -4,6 +4,6 @@ netsuite.customrecord_crpsm val_305315_td2893563_972 {
   name = "At Risk"
   custom_custrecord_crpsm_banner_style = netsuite.customlist.instance.customlist_crpsmbanner.customvalues.customvalue.val_306442_td2893563_644
   custom_custrecord_crpsm_color = netsuite.customlist.instance.customlist_crpsmcolor.customvalues.customvalue.val_306437_td2893563_949
-  custom_custrecord_crpsm_metric = 60
+  custom_custrecord_crpsm_metric = 61
   _alias = "At Risk"
 }

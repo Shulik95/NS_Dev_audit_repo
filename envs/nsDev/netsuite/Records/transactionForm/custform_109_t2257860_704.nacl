@@ -417,16 +417,6 @@ netsuite.transactionForm custform_109_t2257860_704 {
         MIDDLE = {
           position = "MIDDLE"
           field = {
-            DEPARTMENT = {
-              id = "DEPARTMENT"
-              label = "Department"
-              visible = true
-              mandatory = false
-              displayType = "NORMAL"
-              columnBreak = false
-              sameRowAsPrevious = false
-              index = 0
-            }
             DRACCOUNT = {
               id = "DRACCOUNT"
               label = "Deferred Revenue Reclassification Account"
@@ -435,7 +425,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 1
+              index = 0
             }
             ONETIME = {
               id = "ONETIME"
@@ -445,7 +435,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 2
+              index = 1
             }
             RECURWEEKLY = {
               id = "RECURWEEKLY"
@@ -455,7 +445,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 3
+              index = 2
             }
             RECURMONTHLY = {
               id = "RECURMONTHLY"
@@ -465,7 +455,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 4
+              index = 3
             }
             RECURQUARTERLY = {
               id = "RECURQUARTERLY"
@@ -475,7 +465,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 5
+              index = 4
             }
             RECURANNUALLY = {
               id = "RECURANNUALLY"
@@ -485,7 +475,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 6
+              index = 5
             }
             custbody_slt_opportunity_owner_modify = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_opportunity_owner_modify.scriptid
@@ -495,7 +485,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 7
+              index = 6
             }
             custbody_slt_sales_order_type = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_sales_order_type.scriptid
@@ -505,7 +495,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 8
+              index = 7
             }
             custbody_bizdoc_buyer_name = {
               id = netsuite.transactionbodycustomfield.instance.custbody_bizdoc_buyer_name.scriptid
@@ -515,7 +505,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 9
+              index = 8
             }
             custbody_approval_status = {
               id = netsuite.transactionbodycustomfield.instance.custbody_approval_status.scriptid
@@ -525,7 +515,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 10
+              index = 9
             }
             custbody_esc_last_modified_date = {
               id = "[scriptid=custbody_esc_last_modified_date]"
@@ -535,7 +525,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 11
+              index = 10
             }
             custbody_esc_created_date = {
               id = "[scriptid=custbody_esc_created_date]"
@@ -545,7 +535,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 12
+              index = 11
             }
             custbody_esc_campaign_category = {
               id = "[scriptid=custbody_esc_campaign_category]"
@@ -555,7 +545,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 13
+              index = 12
             }
             custbody_slt_created_date = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_created_date.scriptid
@@ -565,7 +555,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 14
+              index = 13
             }
             custbody_slt_customer_balance = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_customer_balance.scriptid
@@ -575,7 +565,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 15
+              index = 14
             }
             custbody_slt_customer_balance_curr = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_customer_balance_curr.scriptid
@@ -585,7 +575,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 16
+              index = 15
             }
             custbody_slt_last_modified_date = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_last_modified_date.scriptid
@@ -595,7 +585,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 17
+              index = 16
             }
             custbody_must_ship_by = {
               id = netsuite.transactionbodycustomfield.instance.custbody_must_ship_by.scriptid
@@ -605,7 +595,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 18
+              index = 17
             }
             custbody_dep_percent = {
               id = netsuite.transactionbodycustomfield.instance.custbody_dep_percent.scriptid
@@ -615,7 +605,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 19
+              index = 18
             }
             custbody_dep_formula = {
               id = netsuite.transactionbodycustomfield.instance.custbody_dep_formula.scriptid
@@ -625,7 +615,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 20
+              index = 19
             }
             custbody_contactphonenumber = {
               id = netsuite.transactionbodycustomfield.instance.custbody_contactphonenumber.scriptid
@@ -635,7 +625,7 @@ netsuite.transactionForm custform_109_t2257860_704 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 21
+              index = 20
             }
           }
           index = 1
@@ -968,12 +958,6 @@ netsuite.transactionForm custform_109_t2257860_704 {
                     visible = false
                     index = 44
                   }
-                  DEPARTMENT = {
-                    id = "DEPARTMENT"
-                    label = "Department"
-                    visible = false
-                    index = 46
-                  }
                   cseg2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg2]"
                     label = "Region"
@@ -984,37 +968,37 @@ netsuite.transactionForm custform_109_t2257860_704 {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_erp_property]"
                     label = "Kavel"
                     visible = true
-                    index = 47
+                    index = 46
                   }
                   cseg_test2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_test2]"
                     label = "test2sss1"
                     visible = false
-                    index = 48
+                    index = 47
                   }
                   cseg3 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg3]"
                     label = "cseg6"
                     visible = false
-                    index = 49
+                    index = 48
                   }
                   cseg4 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg4]"
                     label = "csegggg"
                     visible = false
-                    index = 50
+                    index = 49
                   }
                   cseg_sales_region = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_sales_region]"
                     label = "Sales Region"
                     visible = true
-                    index = 51
+                    index = 50
                   }
                   PERCENTCOMPLETE = {
                     id = "PERCENTCOMPLETE"
                     label = "% Complete"
                     visible = false
-                    index = 52
+                    index = 51
                   }
                 }
               }

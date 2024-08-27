@@ -123,16 +123,6 @@ netsuite.entryForm custform_20_t2257860_934 {
                 sameRowAsPrevious = false
                 index = 0
               }
-              DEPARTMENT = {
-                id = "DEPARTMENT"
-                label = "Department"
-                visible = true
-                mandatory = false
-                displayType = "NORMAL"
-                columnBreak = false
-                sameRowAsPrevious = false
-                index = 1
-              }
               CLASS = {
                 id = "CLASS"
                 label = "Class"
@@ -141,7 +131,7 @@ netsuite.entryForm custform_20_t2257860_934 {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 2
+                index = 1
               }
               LOCATION = {
                 id = "LOCATION"
@@ -151,7 +141,7 @@ netsuite.entryForm custform_20_t2257860_934 {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 3
+                index = 2
               }
             }
             index = 0

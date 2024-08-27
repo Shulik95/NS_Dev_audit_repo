@@ -355,10 +355,6 @@ settings netsuite.accountingPreferences {
     label = "Allow Gaps in Revenue Recognition Record Numbers"
     type = "checkbox"
   }
-  boolean DEPTSPERLINE {
-    label = "Allow Per-Line Departments"
-    type = "checkbox"
-  }
   boolean AUTONOTIFYSUPV {
     label = "Automatically Notify Supervisor"
     type = "checkbox"
@@ -570,10 +566,6 @@ settings netsuite.accountingPreferences {
   netsuite.selectOption DEFAULT_ADVANCE_ACCT_FOR_EXPREPT {
     label = "Default Advance to Apply Account for Expense Reports"
     type = "select"
-  }
-  boolean DEPTMANDATORY {
-    label = "Make Departments Mandatory"
-    type = "checkbox"
   }
   boolean BULKFULFILLLOCFILTERING {
     label = "Filter Bulk Fulfillment Page by Warehouse"
@@ -894,10 +886,6 @@ settings netsuite.accountingPreferences {
   netsuite.selectOption REVENUEPLANUPDATEFREQUENCY {
     label = "Revenue Plan Update Frequency"
     type = "select"
-  }
-  boolean USEHEADERDEPTFORLINE {
-    label = "Use Header Department as Default Line Item Value"
-    type = "checkbox"
   }
   boolean PRESERVE_TRAN_ON_HOLD_PAYMENT {
     label = "Preserve Transactions when Payment is on Hold"

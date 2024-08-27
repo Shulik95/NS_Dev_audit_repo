@@ -1,5 +1,5 @@
 netsuite.companyFeatures {
-  DEPARTMENTS = true
+  DEPARTMENTS = false
   LOCATIONS = true
   CLASSES = true
   JOBS = true

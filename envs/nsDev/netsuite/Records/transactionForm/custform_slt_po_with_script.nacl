@@ -205,16 +205,6 @@ netsuite.transactionForm custform_slt_po_with_script {
                 sameRowAsPrevious = false
                 index = 0
               }
-              DEPARTMENT = {
-                id = "DEPARTMENT"
-                label = "Department"
-                visible = true
-                mandatory = false
-                displayType = "NORMAL"
-                columnBreak = false
-                sameRowAsPrevious = false
-                index = 1
-              }
               CLASS = {
                 id = "CLASS"
                 label = "Class"
@@ -223,7 +213,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 2
+                index = 1
               }
               LOCATION = {
                 id = "LOCATION"
@@ -233,7 +223,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 3
+                index = 2
               }
               cseg1 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg1]"
@@ -243,7 +233,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 4
+                index = 3
               }
               cseg_slt_order = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg_slt_order]"
@@ -253,7 +243,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 5
+                index = 4
               }
               cseg2 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg2]"
@@ -263,7 +253,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 6
+                index = 5
               }
               cseg_erp_property = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg_erp_property]"
@@ -273,7 +263,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 7
+                index = 6
               }
               cseg_test2 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg_test2]"
@@ -283,7 +273,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 8
+                index = 7
               }
               cseg3 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg3]"
@@ -293,7 +283,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 9
+                index = 8
               }
               cseg4 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg4]"
@@ -303,7 +293,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 10
+                index = 9
               }
               cseg_sales_region = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg_sales_region]"
@@ -313,7 +303,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 11
+                index = 10
               }
             }
             index = 0
@@ -629,101 +619,95 @@ netsuite.transactionForm custform_slt_po_with_script {
                     visible = true
                     index = 8
                   }
-                  DEPARTMENT = {
-                    id = "DEPARTMENT"
-                    label = "Department"
-                    visible = true
-                    index = 9
-                  }
                   CLASS = {
                     id = "CLASS"
                     label = "Class"
                     visible = true
-                    index = 10
+                    index = 9
                   }
                   LOCATION = {
                     id = "LOCATION"
                     label = "Location"
                     visible = true
-                    index = 11
+                    index = 10
                   }
                   CUSTOMER = {
                     id = "CUSTOMER"
                     label = "Customer:Job"
                     visible = true
-                    index = 12
+                    index = 11
                   }
                   ISBILLABLE = {
                     id = "ISBILLABLE"
                     label = "Billable"
                     visible = true
-                    index = 13
+                    index = 12
                   }
                   custcol_slt_billable = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_billable.scriptid
                     label = "Billable"
                     visible = false
-                    index = 14
+                    index = 13
                   }
                   custcol_with_stam_dependency = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_with_stam_dependency.scriptid
                     label = "with Stam dependency"
                     visible = false
-                    index = 15
+                    index = 14
                   }
                   custcol_slt_e2e_test = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_e2e_test.scriptid
                     label = "created by oss e2e - 9726438"
                     visible = false
-                    index = 16
+                    index = 15
                   }
                   cseg1 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg1]"
                     label = "Stam2"
                     visible = false
-                    index = 17
+                    index = 16
                   }
                   cseg_slt_order = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_slt_order]"
                     label = "Test Applications Order"
                     visible = true
-                    index = 18
+                    index = 17
                   }
                   cseg2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg2]"
                     label = "Region"
                     visible = false
-                    index = 19
+                    index = 18
                   }
                   cseg_erp_property = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_erp_property]"
                     label = "Kavel"
                     visible = true
-                    index = 20
+                    index = 19
                   }
                   cseg_test2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_test2]"
                     label = "test2sss"
                     visible = false
-                    index = 21
+                    index = 20
                   }
                   cseg3 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg3]"
                     label = "cseg6"
                     visible = false
-                    index = 22
+                    index = 21
                   }
                   cseg4 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg4]"
                     label = "csegggg"
                     visible = false
-                    index = 23
+                    index = 22
                   }
                   cseg_sales_region = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_sales_region]"
                     label = "Sales Region"
                     visible = true
-                    index = 24
+                    index = 23
                   }
                 }
               }
@@ -844,137 +828,131 @@ netsuite.transactionForm custform_slt_po_with_script {
                     visible = true
                     index = 19
                   }
-                  DEPARTMENT = {
-                    id = "DEPARTMENT"
-                    label = "Department"
-                    visible = true
-                    index = 20
-                  }
                   CLASS = {
                     id = "CLASS"
                     label = "Class"
                     visible = true
-                    index = 21
+                    index = 20
                   }
                   LOCATION = {
                     id = "LOCATION"
                     label = "Location"
                     visible = false
-                    index = 22
+                    index = 21
                   }
                   CUSTOMER = {
                     id = "CUSTOMER"
                     label = "Customer:Job"
                     visible = true
-                    index = 23
+                    index = 22
                   }
                   ISBILLABLE = {
                     id = "ISBILLABLE"
                     label = "Billable"
                     visible = true
-                    index = 24
+                    index = 23
                   }
                   MATCHBILLTORECEIPT = {
                     id = "MATCHBILLTORECEIPT"
                     label = "Match Bill To Receipt"
                     visible = true
-                    index = 25
+                    index = 24
                   }
                   EXPECTEDRECEIPTDATE = {
                     id = "EXPECTEDRECEIPTDATE"
                     label = "Expected Receipt Date"
                     visible = true
-                    index = 26
+                    index = 25
                   }
                   TOBERECEIVED = {
                     id = "TOBERECEIVED"
                     label = "To Be Received"
                     visible = false
-                    index = 27
+                    index = 26
                   }
                   ISCLOSED = {
                     id = "ISCLOSED"
                     label = "Closed"
                     visible = true
-                    index = 28
+                    index = 27
                   }
                   BILLVARIANCESTATUS = {
                     id = "BILLVARIANCESTATUS"
                     label = "Bill Variance Status"
                     visible = false
-                    index = 29
+                    index = 28
                   }
                   GENERATEACCRUALS = {
                     id = "GENERATEACCRUALS"
                     label = "Generate Accruals"
                     visible = false
-                    index = 30
+                    index = 29
                   }
                   custcol_slt_billable = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_billable.scriptid
                     label = "Billable"
                     visible = false
-                    index = 31
+                    index = 30
                   }
                   custcol_with_stam_dependency = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_with_stam_dependency.scriptid
                     label = "with Stam dependency"
                     visible = false
-                    index = 32
+                    index = 31
                   }
                   custcol_slt_e2e_test = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_e2e_test.scriptid
                     label = "created by oss e2e - 9726438"
                     visible = false
-                    index = 33
+                    index = 32
                   }
                   cseg1 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg1]"
                     label = "Stam2"
                     visible = false
-                    index = 34
+                    index = 33
                   }
                   cseg_slt_order = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_slt_order]"
                     label = "Test Applications Order"
                     visible = true
-                    index = 35
+                    index = 34
                   }
                   cseg2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg2]"
                     label = "Region"
                     visible = false
-                    index = 36
+                    index = 35
                   }
                   cseg_erp_property = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_erp_property]"
                     label = "Kavel"
                     visible = true
-                    index = 37
+                    index = 36
                   }
                   cseg_test2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_test2]"
                     label = "test2sss"
                     visible = false
-                    index = 38
+                    index = 37
                   }
                   cseg3 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg3]"
                     label = "cseg6"
                     visible = false
-                    index = 39
+                    index = 38
                   }
                   cseg4 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg4]"
                     label = "csegggg"
                     visible = false
-                    index = 41
+                    index = 40
                   }
                   cseg_sales_region = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_sales_region]"
                     label = "Sales Region"
                     visible = true
-                    index = 42
+                    index = 41
                   }
                   PURCHASECONTRACT = {
                     id = "PURCHASECONTRACT"
@@ -986,7 +964,7 @@ netsuite.transactionForm custform_slt_po_with_script {
                     id = "CREATEDFROM"
                     label = "Created From"
                     visible = true
-                    index = 40
+                    index = 39
                   }
                   DISPLAYNAME = {
                     id = "DISPLAYNAME"

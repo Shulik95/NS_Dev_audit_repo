@@ -139,7 +139,6 @@ netsuite.accountingPreferences {
     value = "55"
     text = "Purchases"
   }
-  DEPTSPERLINE = true
   AUTONOTIFYSUPV = true
   CUSTOMAPPROVALTIMEBILL = false
   REVENUEARRANGEMENTUPDATEFREQUENCY = {
@@ -220,7 +219,6 @@ netsuite.accountingPreferences {
   CUSTOM_SEGMENT_DELETION = false
   OPENONLYSTMTS = false
   LOGUERECORDSYNCH = false
-  DEPTMANDATORY = false
   BULKFULFILLLOCFILTERING = true
   DEFRTNAUTHSTATUS = {
     value = "A"
@@ -360,7 +358,6 @@ netsuite.accountingPreferences {
     text = "Manual"
   }
   ALLOWCROSSSUBBILLABLES = false
-  USEHEADERDEPTFORLINE = true
   PRESERVE_TRAN_ON_HOLD_PAYMENT = false
   USEPORATEONBILLS = false
   CUSTOMAPPROVALPURCHORD = true

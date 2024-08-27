@@ -1,4 +1,4 @@
-type netsuite.customrecord_crpsm {
+type netsuite.customrecord_slt_e2e_test {
   annotations {
     serviceid scriptid {
     }
@@ -82,7 +82,6 @@ type netsuite.customrecord_crpsm {
     }
     boolean showowneronlist {
     }
-    
     netsuite.customrecordtype_links links {
     }
     netsuite.customrecordtype_permissions permissions {
@@ -97,11 +96,10 @@ type netsuite.customrecord_crpsm {
     }
     hidden_string source {
     }
-    boolean isInactive {
-    }
     hidden_string internalId {
     }
-    
+    boolean isInactive {
+    }
   }
   string scriptid {
     _required = true
@@ -111,117 +109,110 @@ type netsuite.customrecord_crpsm {
   }
   netsuite.customRecordTranslationsList translationsList {
   }
-  unknown custom_custrecord_crpsm_banner_style {
-    scriptid = "custrecord_crpsm_banner_style"
+  string custom_custrecord_field1 {
+    scriptid = "custrecord_field1"
     accesslevel = "2"
     allowquickadd = false
     applyformatting = false
     checkspelling = false
     defaultchecked = false
-    description = "Select the banner style to display for this status."
+    description = "field 1 description"
     displaytype = "NORMAL"
     encryptatrest = false
-    fieldtype = "SELECT"
+    fieldtype = "TEXT"
     globalsearch = false
-    help = "Select the banner style to display for this status."
     isformula = false
     ismandatory = false
     isparent = false
-    label = "Banner Style"
-    onparentdelete = "NO_ACTION"
+    label = "Field 1"
     rolerestrict = false
-    searchlevel = "2"
-    selectrecordtype = netsuite.customlist.instance.customlist_crpsmbanner.scriptid
-    showinlist = true
+    searchlevel = "1"
+    showinlist = false
     storevalue = true
     index = 0
   }
-  unknown custom_custrecord_crpsm_color {
-    scriptid = "custrecord_crpsm_color"
-    accesslevel = "2"
-    allowquickadd = false
-    applyformatting = false
-    checkspelling = false
-    defaultchecked = false
-    displaytype = "NORMAL"
-    encryptatrest = false
-    fieldtype = "SELECT"
-    globalsearch = false
-    help = "Select the Color for this Metric"
-    isformula = false
-    ismandatory = false
-    isparent = false
-    label = "Color"
-    onparentdelete = "NO_ACTION"
-    rolerestrict = false
-    searchlevel = "2"
-    selectrecordtype = netsuite.customlist.instance.customlist_crpsmcolor.scriptid
-    showinlist = true
-    storevalue = true
-    index = 1
-  }
-  number custom_custrecord_crpsm_metric {
-    scriptid = "custrecord_crpsm_metric"
+  number custom_custrecord_field2 {
+    scriptid = "custrecord_field2"
     accesslevel = "2"
     allowquickadd = false
     applyformatting = true
     checkspelling = false
     defaultchecked = false
-    description = "Numeric Metric for this Project Status Metric."
+    description = "field 2 description"
     displaytype = "NORMAL"
     encryptatrest = false
-    fieldtype = "INTEGER"
+    fieldtype = "PERCENT"
     globalsearch = false
-    help = "Numeric Metric for this Project Status Metric."
     isformula = false
     ismandatory = false
     isparent = false
-    label = "Metric"
+    label = "Field 2"
     rolerestrict = false
     searchlevel = "2"
-    showinlist = true
+    showinlist = false
+    storevalue = true
+    index = 1
+  }
+  netsuite.account custom_custrecord_account {
+    scriptid = "custrecord_account"
+    accesslevel = "2"
+    allowquickadd = false
+    applyformatting = false
+    checkspelling = false
+    defaultchecked = false
+    displaytype = "NORMAL"
+    encryptatrest = false
+    fieldtype = "SELECT"
+    globalsearch = false
+    isformula = false
+    ismandatory = false
+    isparent = false
+    label = "Related Account"
+    onparentdelete = "NO_ACTION"
+    rolerestrict = false
+    searchlevel = "2"
+    selectrecordtype = "-112"
+    showinlist = false
     storevalue = true
     index = 2
   }
-  scriptid = "customrecord_crpsm"
-  accesstype = "NONENEEDED"
-  allowattachments = false
+  scriptid = "customrecord_slt_e2e_test"
+  accesstype = "CUSTRECORDENTRYPERM"
+  allowattachments = true
   allowinlinedeleting = false
-  allowinlinedetaching = false
+  allowinlinedetaching = true
   allowinlineediting = false
-  allowmobileaccess = false
+  allowmobileaccess = true
   allownumberingoverride = false
   allowquickadd = false
   allowquicksearch = false
   allowuiaccess = true
-  description = "update for version bump 20240301-235130"
-  enabledle = false
-  enablekeywords = false
+  description = "e2e test customrecordtype description"
+  enabledle = true
+  enablekeywords = true
   enablemailmerge = false
   enablenametranslation = false
   enablenumbering = false
-  enableoptimisticlocking = false
+  enableoptimisticlocking = true
   enablesystemnotes = true
-  externalrolepermissionlevel = "NONE"
-  hierarchical = false
+  hierarchical = true
   iconbuiltin = true
-  includeinsearchmenu = false
+  includeinsearchmenu = true
   includename = true
-  isordered = true
-  publicpermissionlevel = "NONE"
-  recordname = "Project Status Metric"
+  isordered = false
+  recordname = "created by e2e - 0387510"
   showcreationdate = false
   showcreationdateonlist = false
   showid = false
   showlastmodified = false
   showlastmodifiedonlist = false
-  shownotes = false
+  shownotes = true
   showowner = false
   showownerallowchange = false
   showowneronlist = false
   metadataType = "customrecordtype"
   isInactive = false
-  _alias = "Project Status Metric"
+  _alias = "created by e2e - 0387510"
   _self_important_values = [
     {
       value = "description"
