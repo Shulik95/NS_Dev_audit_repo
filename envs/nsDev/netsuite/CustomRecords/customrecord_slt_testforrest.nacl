@@ -102,6 +102,8 @@ type netsuite.customrecord_slt_testforrest {
     hidden_string internalId {
     }
     
+    netsuite.customrecordtype_instances instances {
+    }
   }
   string scriptid {
     _required = true
@@ -391,7 +393,7 @@ type netsuite.customrecord_slt_testforrest {
   allowquickadd = false
   allowquicksearch = false
   allowuiaccess = true
-  description = "This is the desription!!"
+  description = "This is the desription!"
   enabledle = true
   enablekeywords = true
   enablemailmerge = false
