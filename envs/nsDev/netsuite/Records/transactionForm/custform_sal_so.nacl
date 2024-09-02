@@ -260,6 +260,16 @@ netsuite.transactionForm custform_sal_so {
                 sameRowAsPrevious = false
                 index = 0
               }
+              DEPARTMENT = {
+                id = "DEPARTMENT"
+                label = "Department"
+                visible = true
+                mandatory = false
+                displayType = "NORMAL"
+                columnBreak = false
+                sameRowAsPrevious = false
+                index = 1
+              }
               CLASS = {
                 id = "CLASS"
                 label = "Class"
@@ -268,7 +278,7 @@ netsuite.transactionForm custform_sal_so {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 1
+                index = 2
               }
               LOCATION = {
                 id = "LOCATION"
@@ -278,7 +288,7 @@ netsuite.transactionForm custform_sal_so {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 2
+                index = 3
               }
               cseg_slt_order = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg_slt_order]"
@@ -288,7 +298,7 @@ netsuite.transactionForm custform_sal_so {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 3
+                index = 4
               }
               cseg2 = {
                 id = "[type=transactionbodycustomfield, scriptid=cseg2]"
@@ -298,7 +308,7 @@ netsuite.transactionForm custform_sal_so {
                 displayType = "NORMAL"
                 columnBreak = false
                 sameRowAsPrevious = false
-                index = 4
+                index = 5
               }
             }
             index = 0
@@ -788,137 +798,143 @@ netsuite.transactionForm custform_sal_so {
                     visible = false
                     index = 29
                   }
+                  DEPARTMENT = {
+                    id = "DEPARTMENT"
+                    label = "Department"
+                    visible = false
+                    index = 30
+                  }
                   CLASS = {
                     id = "CLASS"
                     label = "Class"
                     visible = false
-                    index = 30
+                    index = 31
                   }
                   LOCATION = {
                     id = "LOCATION"
                     label = "Location"
                     visible = false
-                    index = 31
+                    index = 32
                   }
                   BILLINGSCHEDULE = {
                     id = "BILLINGSCHEDULE"
                     label = "Billing Schedule"
                     visible = false
-                    index = 32
+                    index = 33
                   }
                   EXPECTEDSHIPDATE = {
                     id = "EXPECTEDSHIPDATE"
                     label = "Expected Ship Date"
                     visible = true
-                    index = 33
+                    index = 34
                   }
                   EXCLUDEFROMRATEREQUEST = {
                     id = "EXCLUDEFROMRATEREQUEST"
                     label = "Exclude Item from Rate Request"
                     visible = true
-                    index = 34
+                    index = 35
                   }
                   ISCLOSED = {
                     id = "ISCLOSED"
                     label = "Closed"
                     visible = true
-                    index = 35
+                    index = 36
                   }
                   FREEGIFTPROMOTION = {
                     id = "FREEGIFTPROMOTION"
                     label = "Free Gift Promotion"
                     visible = true
-                    index = 36
+                    index = 37
                   }
                   custcol_slt_billable = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_billable.scriptid
                     label = "Billable"
                     visible = true
-                    index = 37
+                    index = 38
                   }
                   custcol_with_stam_dependency = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_with_stam_dependency.scriptid
                     label = "with Stam dependency"
                     visible = false
-                    index = 38
+                    index = 39
                   }
                   custcol_slt_e2e_test = {
                     id = netsuite.transactioncolumncustomfield.instance.custcol_slt_e2e_test.scriptid
                     label = "created by oss e2e - 6287106"
                     visible = true
-                    index = 39
+                    index = 40
                   }
                   cseg1 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg1]"
                     label = "Stam2"
                     visible = false
-                    index = 40
+                    index = 41
                   }
                   cseg_slt_order = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_slt_order]"
                     label = "Test Applications Order"
                     visible = false
-                    index = 41
+                    index = 42
                   }
                   PERCENTCOMPLETE = {
                     id = "PERCENTCOMPLETE"
                     label = "% Complete"
                     visible = false
-                    index = 42
+                    index = 43
                   }
                   cseg2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg2]"
                     label = "Region"
                     visible = false
-                    index = 43
+                    index = 44
                   }
                   cseg_test2 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_test2]"
                     label = "test2"
                     visible = false
-                    index = 51
+                    index = 52
                   }
                   cseg4 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg4]"
                     label = "csegggg"
                     visible = false
-                    index = 48
+                    index = 49
                   }
                   cseg_erp_property = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_erp_property]"
                     label = "Kavel"
                     visible = true
-                    index = 49
+                    index = 50
                   }
                   cseg_sales_region = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg_sales_region]"
                     label = "Sales Region"
                     visible = true
-                    index = 50
+                    index = 51
                   }
                   cseg3 = {
                     id = "[type=transactioncolumncustomfield, scriptid=cseg3]"
                     label = "cseg6"
                     visible = false
-                    index = 47
+                    index = 48
                   }
                   ITEMFULFILLMENTCHOICE = {
                     id = "ITEMFULFILLMENTCHOICE"
                     label = "Fulfillment Choice"
                     visible = false
-                    index = 44
+                    index = 45
                   }
                   FROMJOB = {
                     id = "FROMJOB"
                     label = "Project Item"
                     visible = true
-                    index = 45
+                    index = 46
                   }
                   ISESTIMATE = {
                     id = "ISESTIMATE"
                     label = "Billable Estimate"
                     visible = true
-                    index = 46
+                    index = 47
                   }
                   DISPLAYNAME = {
                     id = "DISPLAYNAME"

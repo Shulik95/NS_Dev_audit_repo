@@ -4,6 +4,7 @@ envs {
       name = "nsDev"
       accountToServiceName = {
         netsuite = "netsuite"
+        salesforce = "salesforce"
       }
     },
   ]

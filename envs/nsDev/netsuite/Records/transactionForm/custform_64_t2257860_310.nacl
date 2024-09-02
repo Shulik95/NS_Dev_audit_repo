@@ -204,6 +204,16 @@ netsuite.transactionForm custform_64_t2257860_310 {
         MIDDLE = {
           position = "MIDDLE"
           field = {
+            DEPARTMENT = {
+              id = "DEPARTMENT"
+              label = "Department"
+              visible = true
+              mandatory = false
+              displayType = "NORMAL"
+              columnBreak = false
+              sameRowAsPrevious = false
+              index = 0
+            }
             custbody_slt_opportunity_owner_modify = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_opportunity_owner_modify.scriptid
               label = "Opportunity owner"
@@ -212,7 +222,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 0
+              index = 1
             }
             custbody_slt_sales_order_type = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_sales_order_type.scriptid
@@ -222,7 +232,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 1
+              index = 2
             }
             custbody_bizdoc_buyer_name = {
               id = netsuite.transactionbodycustomfield.instance.custbody_bizdoc_buyer_name.scriptid
@@ -232,7 +242,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 2
+              index = 3
             }
             custbody_approval_status = {
               id = netsuite.transactionbodycustomfield.instance.custbody_approval_status.scriptid
@@ -242,7 +252,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 3
+              index = 4
             }
             custbody_esc_last_modified_date = {
               id = "[scriptid=custbody_esc_last_modified_date]"
@@ -252,7 +262,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 4
+              index = 5
             }
             custbody_esc_created_date = {
               id = "[scriptid=custbody_esc_created_date]"
@@ -262,7 +272,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 5
+              index = 6
             }
             custbody_esc_campaign_category = {
               id = "[scriptid=custbody_esc_campaign_category]"
@@ -272,7 +282,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 6
+              index = 7
             }
             custbody_slt_created_date = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_created_date.scriptid
@@ -282,7 +292,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 7
+              index = 8
             }
             custbody_slt_customer_balance = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_customer_balance.scriptid
@@ -292,7 +302,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 8
+              index = 9
             }
             custbody_slt_customer_balance_curr = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_customer_balance_curr.scriptid
@@ -302,7 +312,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 9
+              index = 10
             }
             custbody_slt_last_modified_date = {
               id = netsuite.transactionbodycustomfield.instance.custbody_slt_last_modified_date.scriptid
@@ -312,7 +322,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "DISABLED"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 10
+              index = 11
             }
             custbody_must_ship_by = {
               id = netsuite.transactionbodycustomfield.instance.custbody_must_ship_by.scriptid
@@ -322,7 +332,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 11
+              index = 12
             }
             custbody_dep_percent = {
               id = netsuite.transactionbodycustomfield.instance.custbody_dep_percent.scriptid
@@ -332,7 +342,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 12
+              index = 13
             }
             custbody_dep_formula = {
               id = netsuite.transactionbodycustomfield.instance.custbody_dep_formula.scriptid
@@ -342,7 +352,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 13
+              index = 14
             }
             custbody_contactontrans = {
               id = netsuite.transactionbodycustomfield.instance.custbody_contactontrans.scriptid
@@ -352,7 +362,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "NORMAL"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 14
+              index = 15
             }
             custbody_contactphonenumber = {
               id = netsuite.transactionbodycustomfield.instance.custbody_contactphonenumber.scriptid
@@ -362,7 +372,7 @@ netsuite.transactionForm custform_64_t2257860_310 {
               displayType = "INLINETEXT"
               columnBreak = false
               sameRowAsPrevious = false
-              index = 15
+              index = 16
             }
           }
           index = 1

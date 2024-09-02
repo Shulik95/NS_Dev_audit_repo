@@ -187,6 +187,10 @@ netsuite.role customrole1040 {
         permkey = "LIST_CUSTJOB"
         permlevel = "EDIT"
       }
+      LIST_DEPARTMENT = {
+        permkey = "LIST_DEPARTMENT"
+        permlevel = "EDIT"
+      }
       LIST_FILECABINET = {
         permkey = "LIST_FILECABINET"
         permlevel = "FULL"

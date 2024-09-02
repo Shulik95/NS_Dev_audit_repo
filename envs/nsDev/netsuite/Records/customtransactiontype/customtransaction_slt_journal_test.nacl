@@ -8,6 +8,7 @@ netsuite.customtransactiontype customtransaction_slt_journal_test {
   transactionstyle = "JOURNAL"
   segments = {
     classposition = "NONE"
+    departmentposition = "NONE"
     locationposition = "NONE"
   }
   permissions = {

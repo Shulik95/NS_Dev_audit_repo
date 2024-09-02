@@ -9,6 +9,7 @@ netsuite.customtransactiontype customtransaction_slt_basic_test {
   transactionstyle = "BASIC"
   segments = {
     classposition = "NONE"
+    departmentposition = "NONE"
     locationposition = "NONE"
   }
   permissions = {

@@ -101,9 +101,6 @@ type netsuite.customrecord_slt_testforrest {
     }
     hidden_string internalId {
     }
-    
-    netsuite.customrecordtype_instances instances {
-    }
   }
   string scriptid {
     _required = true

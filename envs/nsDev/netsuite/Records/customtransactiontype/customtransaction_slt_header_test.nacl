@@ -8,6 +8,7 @@ netsuite.customtransactiontype customtransaction_slt_header_test {
   transactionstyle = "HEADER_ONLY"
   segments = {
     classposition = "NONE"
+    departmentposition = "NONE"
     locationposition = "NONE"
   }
   permissions = {

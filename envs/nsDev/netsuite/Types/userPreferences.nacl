@@ -75,6 +75,10 @@ settings netsuite.userPreferences {
     label = "Require Exact Match on Item Type-Ahead"
     type = "checkbox"
   }
+  netsuite.selectOption DEPARTMENT {
+    label = "Department"
+    type = "select"
+  }
   netsuite.selectOption CALENDARSYSTEM {
     label = "Calendar System"
     type = "select"
@@ -137,6 +141,10 @@ settings netsuite.userPreferences {
   }
   boolean USE_QUICKDATE_IN_ALERTS {
     label = "Respect Quick Date Portlet Settings"
+    type = "checkbox"
+  }
+  boolean DEPARTMENTUNASSIGNED {
+    label = "Include Unassigned"
     type = "checkbox"
   }
   netsuite.selectOption TIMEFORMAT {
@@ -425,6 +433,10 @@ settings netsuite.userPreferences {
   }
   boolean CALL_DEFAULTPUBLIC {
     label = "Default New Phone Calls Public"
+    type = "checkbox"
+  }
+  boolean DEPARTMENTSUBS {
+    label = "Include Sub-Departments"
     type = "checkbox"
   }
   netsuite.selectOption REPORTBYPERIOD {
