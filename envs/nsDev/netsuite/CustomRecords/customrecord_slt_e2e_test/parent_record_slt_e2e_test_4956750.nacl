@@ -1,6 +1,0 @@
-netsuite.customrecord_slt_e2e_test parent_record_slt_e2e_test_4956750 {
-  isInactive = false
-  name = "created by e2e - 4956750"
-  scriptid = "parent_record_slt_e2e_test_4956750"
-  _alias = "created by e2e - 4956750"
-}

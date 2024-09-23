@@ -10,7 +10,7 @@ netsuite.role customrole_slt_e2e_test {
   issinglesignononly = false
   issupportrole = false
   iswebserviceonlyrole = false
-  name = "created by e2e - 4956750"
+  name = "created by e2e - 0333914"
   restrictbydevice = false
   restricttimeandexpenses = false
   subsidiaryoption = "OWN"
@@ -27,12 +27,8 @@ netsuite.role customrole_slt_e2e_test {
         permkey = "LIST_FILECABINET"
         permlevel = "FULL"
       }
-      customrecord_slt_e2e_test = {
-        permkey = netsuite.customrecord_slt_e2e_test.attr.scriptid
-        permlevel = "EDIT"
-      }
     }
   }
   isInactive = false
-  _alias = "created by e2e - 4956750"
+  _alias = "created by e2e - 0333914"
 }
