@@ -3,7 +3,6 @@ envs {
     {
       name = "nsDev"
       accountToServiceName = {
-        salesforce = "salesforce"
         netsuite = "netsuite"
       }
     },
