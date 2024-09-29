@@ -31,13 +31,13 @@ netsuite.transactioncolumncustomfield custcol_slt_e2e_test {
   fieldtype = "CHECKBOX"
   isformula = false
   ismandatory = false
-  label = "created by e2e - 1085796"
+  label = "created by e2e - 5003569"
   searchlevel = "2"
   showhierarchy = false
   sourcefrom = netsuite.entitycustomfield.instance.custentity_slt_e2e_test.scriptid
   sourcelist = "STDBODYENTITY"
   storevalue = true
-  _alias = "created by e2e - 1085796"
+  _alias = "created by e2e - 5003569"
   colfulfillmentrequest = false
   colpaycheckcompanycontribution = false
   colpaycheckcompanytax = false
