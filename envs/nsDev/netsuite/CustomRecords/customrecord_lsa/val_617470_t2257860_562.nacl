@@ -1,0 +1,6 @@
+netsuite.customrecord_lsa val_617470_t2257860_562 {
+  isInactive = false
+  scriptid = "val_617470_t2257860_562"
+  custom_custrecord_entity_opp_id_lsa = "entity5472"
+  custom_custrecord_mode_lsa = "edit"
+}

@@ -1,0 +1,4 @@
+netsuite.customrecord_sw_sah_settings val_689762_t2257860_5821 {
+  scriptid = "val_689762_t2257860_5821"
+  custom_custrecord_sw_sah_enabled = true
+}

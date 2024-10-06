@@ -1,0 +1,8 @@
+netsuite.customrecord_lsa val_690180_t2257860_585 {
+  isInactive = false
+  scriptid = "val_690180_t2257860_585"
+  custom_custrecord_entity_opp_id_lsa = "test"
+  custom_cseg1 = {
+    id = "[ACCOUNT_SPECIFIC_VALUE] (object) (a : aSon)"
+  }
+}
