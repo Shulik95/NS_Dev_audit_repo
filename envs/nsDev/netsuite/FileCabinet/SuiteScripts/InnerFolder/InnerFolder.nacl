@@ -1,5 +1,5 @@
 netsuite.folder SuiteScripts_InnerFolder@d {
-  description = "created by e2e - 8045338"
+  description = "created by e2e - 5267797"
   bundleable = true
   isprivate = false
   path = "/SuiteScripts/InnerFolder"
