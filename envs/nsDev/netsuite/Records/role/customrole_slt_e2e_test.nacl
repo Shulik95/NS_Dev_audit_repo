@@ -27,6 +27,10 @@ netsuite.role customrole_slt_e2e_test {
         permkey = "LIST_FILECABINET"
         permlevel = "FULL"
       }
+      customrecord1000 = {
+        permkey = netsuite.customrecord1000.attr.scriptid
+        permlevel = "VIEW"
+      }
     }
   }
   isInactive = false

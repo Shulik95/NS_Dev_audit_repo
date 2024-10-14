@@ -112,7 +112,7 @@ type netsuite.customrecord1000 {
   netsuite.customRecordTranslationsList translationsList {
   }
   scriptid = "customrecord1000"
-  accesstype = "CUSTRECORDENTRYPERM"
+  accesstype = "USEPERMISSIONLIST"
   allowattachments = true
   allowinlinedeleting = false
   allowinlinedetaching = true
@@ -126,7 +126,7 @@ type netsuite.customrecord1000 {
   enablekeywords = true
   enablemailmerge = false
   enablenametranslation = false
-  enablenumbering = false
+  enablenumbering = true
   enableoptimisticlocking = true
   enablesystemnotes = true
   hierarchical = false
@@ -134,10 +134,11 @@ type netsuite.customrecord1000 {
   includeinsearchmenu = true
   includename = true
   isordered = false
+  numberingprefix = "test_"
   recordname = "customrecord268 (2)"
   showcreationdate = false
   showcreationdateonlist = false
-  showid = false
+  showid = true
   showlastmodified = false
   showlastmodifiedonlist = false
   shownotes = true
