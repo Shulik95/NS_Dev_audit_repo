@@ -1,6 +1,6 @@
 netsuite.translationcollection custcollectiontranslations_workbook_9_4a4e242d2cf14ddfa2de6 {
   scriptid = "custcollectiontranslations_workbook_9_4a4e242d2cf14ddfa2de6"
-  defaultlanguage = "en_US"
+  defaultlanguage = "en-US"
   description = "Collection of workbook #9"
   name = "Translations for workbook: 9"
   strings = {
